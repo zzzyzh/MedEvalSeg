@@ -1,4 +1,5 @@
-# Unified Medical Reasoning Localization (UMRL) Evaluation based on MedEvalKit
+# MedEvalSeg 
+Unified Medical Reasoning Localization (UMRL) Evaluation based on [MedEvalKit](https://github.com/alibaba-damo-academy/MedEvalKit)
 
 ## Installation
 ```bash
@@ -18,4 +19,3 @@ pip install hydra-core hydra-core[omegaconf]
 
 
 
-# MedEvalSeg
