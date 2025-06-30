@@ -19,8 +19,8 @@ OUTPUT_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedEvalKit/Qwen2.5-
 MODEL_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedReasoner/Qwen2.5-VL-7B-Med-Alignment1"
 # OUTPUT_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedEvalKit/Qwen2.5-VL-7B-Med-Alignment2"
 # MODEL_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedReasoner/Qwen2.5-VL-7B-Med-Alignment2"
-# OUTPUT_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedEvalKit/Qwen2.5-VL-7B-Med-Instruction2"
-# MODEL_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedReasoner/Qwen2.5-VL-7B-Med-Instruction2"
+# OUTPUT_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedEvalKit/Qwen2.5-VL-7B-Med-Instruction1"
+# MODEL_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedReasoner/Qwen2.5-VL-7B-Med-Instruction1"
 # OUTPUT_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedEvalKit/Qwen2.5-VL-7B-Med-Instruction2"
 # MODEL_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedReasoner/Qwen2.5-VL-7B-Med-Instruction2"
 
