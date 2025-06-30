@@ -13,9 +13,8 @@ SUPPORTED_DATASETS=(
 )
 
 DATASETS_PATH="/home/dataset-assist-0/diaomuxi/dataset_zoo/MedEvalKit"
+OUTPUT_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedEvalSeg/Qwen2.5-VL-7B"
 MODEL_NAME="Qwen2.5-VL"
-
-OUTPUT_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedEvalKit/Qwen2.5-VL-7B"
 MODEL_PATH="/home/dataset-assist-0/diaomuxi/model_zoo/Qwen2.5-VL-7B-Instruct"
 
 # vllm setting

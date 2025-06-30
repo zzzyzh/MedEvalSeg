@@ -13,7 +13,7 @@ SUPPORTED_DATASETS=(
 )
 
 DATASETS_PATH="/home/dataset-assist-0/diaomuxi/dataset_zoo/MedEvalKit"
-OUTPUT_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedEvalKit/MedVLM-R1"
+OUTPUT_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedEvalSeg/MedVLM-R1"
 MODEL_NAME="MedVLM-R1"
 MODEL_PATH="/home/dataset-assist-0/diaomuxi/model_zoo/MedVLM-R1"
 

@@ -13,7 +13,7 @@ SUPPORTED_DATASETS=(
 )
 
 DATASETS_PATH="/home/dataset-assist-0/diaomuxi/dataset_zoo/MedEvalKit"
-OUTPUT_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedEvalKit/medgemma-4b-it"
+OUTPUT_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedEvalSeg/medgemma-4b-it"
 MODEL_NAME="MedGemma"
 MODEL_PATH="/home/dataset-assist-0/diaomuxi/model_zoo/medgemma-4b-it"
 

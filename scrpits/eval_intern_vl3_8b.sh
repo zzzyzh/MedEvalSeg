@@ -13,7 +13,7 @@ SUPPORTED_DATASETS=(
 )
 
 DATASETS_PATH="/home/dataset-assist-0/diaomuxi/dataset_zoo/MedEvalKit"
-OUTPUT_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedEvalKit/InternVL3-8B"
+OUTPUT_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedEvalSeg/InternVL3-8B"
 MODEL_NAME="InternVL"
 MODEL_PATH="/home/dataset-assist-0/diaomuxi/model_zoo/InternVL3-8B"
 

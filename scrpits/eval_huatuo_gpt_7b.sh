@@ -13,7 +13,7 @@ SUPPORTED_DATASETS=(
 )
 
 DATASETS_PATH="/home/dataset-assist-0/diaomuxi/dataset_zoo/MedEvalKit"
-OUTPUT_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedEvalKit/HuatuoGPT-Vision-7B"
+OUTPUT_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedEvalSeg/HuatuoGPT-Vision-7B"
 MODEL_NAME="Huatuo"
 MODEL_PATH="/home/dataset-assist-0/diaomuxi/model_zoo/HuatuoGPT-Vision-7B"
 

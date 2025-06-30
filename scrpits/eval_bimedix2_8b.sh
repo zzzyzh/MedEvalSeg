@@ -13,7 +13,7 @@ SUPPORTED_DATASETS=(
 )
 
 DATASETS_PATH="/home/dataset-assist-0/diaomuxi/dataset_zoo/MedEvalKit"
-OUTPUT_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedEvalKit/BiMediX2-8B"
+OUTPUT_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedEvalSeg/BiMediX2-8B"
 MODEL_NAME="BiMediX2"
 MODEL_PATH="/home/dataset-assist-0/diaomuxi/model_zoo/BiMediX2-8B"
 
