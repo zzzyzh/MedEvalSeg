@@ -15,8 +15,14 @@ SUPPORTED_DATASETS=(
 DATASETS_PATH="/home/dataset-assist-0/diaomuxi/dataset_zoo/MedEvalKit"
 MODEL_NAME="Qwen2.5-VL"
 
-OUTPUT_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedEvalKit/Qwen2.5-VL-7B"
-MODEL_PATH="/home/dataset-assist-0/diaomuxi/model_zoo/Qwen2.5-VL-7B-Instruct"
+OUTPUT_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedEvalKit/Qwen2.5-VL-7B-Med-Alignment1"
+MODEL_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedReasoner/Qwen2.5-VL-7B-Med-Alignment1"
+# OUTPUT_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedEvalKit/Qwen2.5-VL-7B-Med-Alignment2"
+# MODEL_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedReasoner/Qwen2.5-VL-7B-Med-Alignment2"
+# OUTPUT_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedEvalKit/Qwen2.5-VL-7B-Med-Instruction2"
+# MODEL_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedReasoner/Qwen2.5-VL-7B-Med-Instruction2"
+# OUTPUT_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedEvalKit/Qwen2.5-VL-7B-Med-Instruction2"
+# MODEL_PATH="/home/dataset-assist-0/diaomuxi/yzh/experiments/MedReasoner/Qwen2.5-VL-7B-Med-Instruction2"
 
 # vllm setting
 CUDA_VISIBLE_DEVICES="0"
